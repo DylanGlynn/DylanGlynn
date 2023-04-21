@@ -1,3 +1,4 @@
+<body bgcolor=”#800000">
 ### <div align="center">👋 I'm Dylan, a full-stack student at Nashville Software School.</div>  
   
 
