@@ -1,4 +1,5 @@
-### <div align="center">👋 I'm Dylan, a full-stack student at Nashville Software School.</div>  
+### <div align="center">👋 I'm Dylan, a full-stack student at Nashville Software School.</div>
+<bgcolor = #ffffff/>
   
 
 - 🌱 I’m currently learning Djano and Net+.
