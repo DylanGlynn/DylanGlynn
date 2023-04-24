@@ -1,5 +1,4 @@
 ### <div align="center">👋 I'm Dylan, a full-stack student at Nashville Software School.</div>
-<style type="text/css">body {background-color: white;</style>
 
 - 🌱 I’m currently learning Djano and Net+.
   
@@ -8,7 +7,7 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="33%" bg-color="white">
 
 
 
