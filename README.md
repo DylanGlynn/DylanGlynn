@@ -7,7 +7,7 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%" bg-color="white">
+<table><tr><td valign="top" width="33%" bg-color=white>
 
 
 
